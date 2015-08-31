@@ -1,17 +1,17 @@
 {
-  name: "",
+  name: "selector-list-component",
   version: "0.0.1",
   authors: [
-    ""
+    "Calvin Froedge <calvinfroedge@gmail.com>"
   ],
   license: "MIT",
   ignore: [
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
-    "tests"
+    "test.*"
   ],
   dependencies: {
+    "jquery": "*"
   }
 }
