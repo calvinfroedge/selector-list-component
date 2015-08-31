@@ -26,9 +26,10 @@ Example (turn container background color red on render):
 
 #Events
 The following events can be provided via the events key in the configuration object (key -> (arguments)):
-
+```
 - itemSelected -> (listItemDOM, choiceMade, chooserDom)
 - onRender -> (containerDOM)
+```
 
 #Styling
 There is no CSS given for this component other than that which forces positioning, but this will get you started with something basic and attractive:
